@@ -1,19 +1,19 @@
 {
-    "version": "2026.9.3",
+    "version": "2026.9.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/labstack/onebox/releases/download/v2026.9.3/onebox_2026.9.3_windows_amd64.zip",
+            "url": "https://github.com/labstack/onebox/releases/download/v2026.9.7/onebox_2026.9.7_windows_amd64.zip",
             "bin": [
                 "ob.exe"
             ],
-            "hash": "2f26609ee8d4ab61d8238da8071f83b5cd45234cdaaaf791ed063977013584e5"
+            "hash": "3e4a68c405ca3dd412de40d97a5dee98460ea6e352c60887dbe4da2e5ecd1edd"
         },
         "arm64": {
-            "url": "https://github.com/labstack/onebox/releases/download/v2026.9.3/onebox_2026.9.3_windows_arm64.zip",
+            "url": "https://github.com/labstack/onebox/releases/download/v2026.9.7/onebox_2026.9.7_windows_arm64.zip",
             "bin": [
                 "ob.exe"
             ],
-            "hash": "41ce7a84fe360d419f9d0830522a4bfe7654022848eb0bddf726719f4a2a0de2"
+            "hash": "0649f2e604f1434529bbf94454eb988747c3f132ba376905824f36e32447c714"
         }
     },
     "homepage": "https://onebox.run",
