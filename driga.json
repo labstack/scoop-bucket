@@ -1,19 +1,19 @@
 {
-    "version": "2026.10.27-alpha",
+    "version": "2026.10.28-alpha",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/labstack/driga/releases/download/v2026.10.27-alpha/driga_2026.10.27-alpha_windows_amd64.zip",
+            "url": "https://github.com/labstack/driga/releases/download/v2026.10.28-alpha/driga_2026.10.28-alpha_windows_amd64.zip",
             "bin": [
                 "bin/driga.exe"
             ],
-            "hash": "745dea32cd3c43da0b01c6fc9d241e6db5a04165a58307b445d15f0bbfa396d0"
+            "hash": "2cbf4a34e0ea109a609362440d5e43240f26502129fbcf5efa79c45ac804ad03"
         },
         "arm64": {
-            "url": "https://github.com/labstack/driga/releases/download/v2026.10.27-alpha/driga_2026.10.27-alpha_windows_arm64.zip",
+            "url": "https://github.com/labstack/driga/releases/download/v2026.10.28-alpha/driga_2026.10.28-alpha_windows_arm64.zip",
             "bin": [
                 "bin/driga.exe"
             ],
-            "hash": "827595f1b4883c554b2fabd2815a3b1c983ae9a3b96c28ff5342116fe985c184"
+            "hash": "dae068f22fb37db82345e4dc715f7d7715b84adb197ff4c5a84ee6477584b732"
         }
     },
     "homepage": "https://github.com/labstack/driga",
